@@ -14,10 +14,10 @@ body {
 	background: #0ACA14;
 	text-align: center;
 	margin: 0px;
-	padding: 5;
+	padding: 9;
 	float: left;
 	width: 100%;
-	height: 80px;
+	height: 90px;
 	
 }
 .nav {
@@ -32,10 +32,10 @@ body {
 .content {
 	background: #499514;
 	margin: 0px;
+	padding: 5px;
 	float: left;
 	width: 100%;
-	height: 400px;
-	text-align: center;
+	text-align: left;
 }
 .footer {
 	background: #899514;
